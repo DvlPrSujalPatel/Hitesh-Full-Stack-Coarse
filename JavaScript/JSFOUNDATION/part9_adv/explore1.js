@@ -1,9 +1,13 @@
-
+console.log("chai code");
 function sayHello(){
     console.log("I would like to say Hello");
 }
 
+setTimeout(() => {
+    sayHello()
+}, 1000);
 
 
-// Example usage:
-// makeMultiplicationTable(5);
+for (let i = 0; i < 10; i++) {
+    console.log(i);
+}
