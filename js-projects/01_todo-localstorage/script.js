@@ -21,7 +21,6 @@ document.addEventListener("DOMContentLoaded", () => {
       saveTasks();
       renderTasks(newTask)
       todoInput.value = "";
-      console.log(tasks);
     });
 
     function renderTasks(task) {
