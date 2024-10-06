@@ -1,0 +1,10 @@
+2024-10-06T08:16:59.987Z - Application Started
+2024-10-06T08:16:59.987Z - Application Event occurred
+2024-10-06T08:17:03.002Z - Current memory usage: 17.76
+2024-10-06T08:17:06.014Z - Current memory usage: 18.07
+2024-10-06T08:17:09.025Z - Current memory usage: 17.64
+2024-10-06T08:17:12.037Z - Current memory usage: 17.57
+2024-10-06T08:17:15.043Z - Current memory usage: 17.43
+2024-10-06T08:17:18.045Z - Current memory usage: 18.22
+2024-10-06T08:17:21.057Z - Current memory usage: 18.38
+2024-10-06T08:17:24.067Z - Current memory usage: 18.32
